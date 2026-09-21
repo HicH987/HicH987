@@ -5,11 +5,11 @@ Based in Algiers, working remotely for a French company since 2024.
 
 ## Now
 
-I build and run the platform behind [Kipful](https://www.kipful.com), a SaaS for NFC business cards and digital profiles.
+I build and run full-stack web products, working across frontend, backend, cloud infrastructure, and AI-powered features.
 
-- Product: Next.js and TypeScript, from the dashboard to the public profile pages
-- AI: a chat that turns what a user likes into a full profile theme (style, mood, layout)
-- Cloud: AWS (ECS, ECR, Lambda, Amplify, EventBridge), Keycloak for identity, GitHub Actions for deploys
+* **Product:** Next.js and TypeScript, from dashboards to public-facing web applications
+* **AI:** AI-powered features that turn user input into generated visual and UI experiences
+* **Cloud:** AWS (ECS, ECR, Lambda, Amplify, EventBridge), Keycloak for identity, GitHub Actions for deploys
 
 Before that I spent a year in an agency (Whiteline-Services) shipping client sites and an internal dashboard to review Facebook Messenger chatbot replies, with roles for several companies.
 
@@ -21,15 +21,15 @@ My thesis became a short paper, "Real-Time Recognition and Analysis of Sports Ac
 
 ## Selected work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [DeepTrain](https://github.com/HicH987/PFE_Application-For-Sports-Action-Recognition-And-Analysis-In-Videos) | Desktop app that recognises 16 workouts from a webcam, counts reps and gives posture feedback. Master's thesis. | Python, TensorFlow, MediaPipe |
-| [Workout classifier](https://github.com/HicH987/workout_model_webApp) | The thesis model in the browser: webcam frames go to a small API that returns the exercise. | React, Flask, TensorFlow Lite, OpenCV |
-| [Face ID web app](https://github.com/HicH987/face_id_webApp) | Face identification for access control, with an API to enrol new faces. | React, Flask |
-| [Two-hand gesture classifier](https://github.com/HicH987/arduino_gestures_classifier) | Two Arduino Nano 33 BLE boards, one model per hand, talking over UART to agree on a gesture. | C++, TensorFlow Lite Micro |
-| [USTHB map and schedule](https://github.com/HicH987/project_dataVis) | Interactive campus map and master's timetable. | React, D3.js |
-| [Endoscopy image analysis](https://github.com/HicH987/gastrointestinal_abnormalities_classification) | Deep learning classifier for gastrointestinal anomalies, plus an [ulcer segmentation](https://github.com/HicH987/ulcer_detection) pipeline in HSV space. | TensorFlow, OpenCV |
-| [War9a](https://github.com/HicH987/War9a) | Contributor. Fill Algerian administrative forms online and export a ready PDF. Built for an association of Algerians in Spain. | Next.js, TypeScript, next-intl |
+| Project                                                                                                      | What it is                                                                                                                                               | Stack                                 |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [DeepTrain](https://github.com/HicH987/PFE_Application-For-Sports-Action-Recognition-And-Analysis-In-Videos) | Desktop app that recognises 16 workouts from a webcam, counts reps and gives posture feedback. Master's thesis.                                          | Python, TensorFlow, MediaPipe         |
+| [Workout classifier](https://github.com/HicH987/workout_model_webApp)                                        | The thesis model in the browser: webcam frames go to a small API that returns the exercise.                                                              | React, Flask, TensorFlow Lite, OpenCV |
+| [Face ID web app](https://github.com/HicH987/face_id_webApp)                                                 | Face identification for access control, with an API to enrol new faces.                                                                                  | React, Flask                          |
+| [Two-hand gesture classifier](https://github.com/HicH987/arduino_gestures_classifier)                        | Two Arduino Nano 33 BLE boards, one model per hand, talking over UART to agree on a gesture.                                                             | C++, TensorFlow Lite Micro            |
+| [USTHB map and schedule](https://github.com/HicH987/project_dataVis)                                         | Interactive campus map and master's timetable.                                                                                                           | React, D3.js                          |
+| [Endoscopy image analysis](https://github.com/HicH987/gastrointestinal_abnormalities_classification)         | Deep learning classifier for gastrointestinal anomalies, plus an [ulcer segmentation](https://github.com/HicH987/ulcer_detection) pipeline in HSV space. | TensorFlow, OpenCV                    |
+| [War9a](https://github.com/HicH987/War9a)                                                                    | Contributor. Fill Algerian administrative forms online and export a ready PDF. Built for an association of Algerians in Spain.                           | Next.js, TypeScript, next-intl        |
 
 ## Toolbox
 
