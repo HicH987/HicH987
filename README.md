@@ -1,7 +1,7 @@
 # Hicham Diab
 
 Computer vision engineer who builds full-stack products.
-Based in Algiers, working remotely for a French company since 2024.
+
 
 ## Now
 
