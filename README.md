@@ -16,7 +16,7 @@ I build and run full-stack web products, working across frontend, backend, cloud
 
 MSc in Computer Vision and Artificial Intelligence, USTHB, Algiers (2023).
 
-My thesis became a short paper, "Real-Time Recognition and Analysis of Sports Actions in Video", published in Visual Computing Magazine (Vol. 1, No. 2).
+My thesis became a short paper, ["Real-Time Recognition and Analysis of Sports Actions in Video"](https://perso.usthb.dz/~slarabi/pdf2/Visual%20Computing19_23.pdf), published in Visual Computing Magazine (Vol. 1, No. 2).
 
 ## Selected work
 
@@ -33,8 +33,11 @@ My thesis became a short paper, "Real-Time Recognition and Analysis of Sports Ac
 ## Toolbox
 
 **Web:** TypeScript, React, Next.js (App and Pages Router), Express, Flask, D3.js, Tailwind CSS
+
 **Cloud:** AWS (ECS, ECR, Lambda, Amplify, EventBridge), GitHub Actions, Docker, Keycloak
+
 **Vision and ML:** Python, OpenCV, TensorFlow, MediaPipe, TensorFlow Lite
+
 **Languages:** English, French, Arabic
 
 ## Contact
