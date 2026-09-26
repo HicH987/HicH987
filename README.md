@@ -11,7 +11,6 @@ I build and run full-stack web products, working across frontend, backend, cloud
 * **AI:** AI-powered features that turn user input into generated visual and UI experiences
 * **Cloud:** AWS (ECS, ECR, Lambda, Amplify, EventBridge), Keycloak for identity, GitHub Actions for deploys
 
-Before that I spent a year in an agency (Whiteline-Services) shipping client sites and an internal dashboard to review Facebook Messenger chatbot replies, with roles for several companies.
 
 ## Background
 
